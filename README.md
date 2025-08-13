@@ -2,8 +2,8 @@
 
 🚀 **Front-End Developer** | 💻 **React JS Enthusiast** | 🎨 **UI/UX Lover**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/YourUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=imamalbana&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/imamalbana)
 
 ---
 
