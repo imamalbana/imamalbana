@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Imam Albana
 
 🚀 **Front-End Developer** | 💻 **React JS Enthusiast** | 🎨 **UI/UX Lover**
 
@@ -18,23 +18,10 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Project 1 - Portfolio Website](https://your-portfolio-link.com)
-> Personal website built with React JS & Tailwind CSS  
-> ✨ Features: Dark Mode, Responsive Design, Smooth Animation
+### 🔹 COOMING SOON
 
-### 🔹 [Project 2 - E-Commerce Frontend](https://github.com/YourUsername/ecommerce-frontend)
-> An online store front-end built with React, Redux, and REST API Integration.
 
-### 🔹 [Project 3 - Dashboard App](https://github.com/YourUsername/dashboard-app)
-> Interactive admin dashboard with React & Chart.js for data visualization.
 
----
-
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
