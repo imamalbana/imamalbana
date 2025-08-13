@@ -24,8 +24,8 @@
 
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/imamalbana)
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](mailto:imamalbana123@gmail.com)
+[![LinkedIn]()](https://linkedin.com/in/imamalbana)
+[![Email]()](mailto:imamalbana123@gmail.com)
 
 ---
 
